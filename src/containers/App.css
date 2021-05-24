@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('SEGA.TTF') format('TTF');
+}
+
+/* @font-face {
+    font-family: 'SEGA LOGO FONT';
+    src: url('http://www.fontsaddict.com/fontface/sega-logo-font.TTF');
+  } */
+
+h1 {
+    font-family: 'SEGA LOGO FONT';
+    font-weight: 200;
+    color: #0ccac4;
+}
